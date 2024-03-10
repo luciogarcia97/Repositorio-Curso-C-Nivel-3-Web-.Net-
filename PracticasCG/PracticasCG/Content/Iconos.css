@@ -1,0 +1,4 @@
+﻿a {
+    text-decoration: none;
+    color: inherit; /* Esto hará que el enlace use el color de texto heredado del elemento padre */
+}

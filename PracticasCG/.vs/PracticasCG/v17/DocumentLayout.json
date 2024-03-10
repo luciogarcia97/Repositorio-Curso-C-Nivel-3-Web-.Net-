@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Lucio Pipo\\Desktop\\Repo Github\\Repositorio-Curso-C-Nivel-3-Web-.Net-\\PracticasCG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50A50B21-F094-4B14-A194-409387BCA18C}|PracticasCG\\PracticasCG.csproj|c:\\users\\lucio pipo\\desktop\\repo github\\repositorio-curso-c-nivel-3-web-.net-\\practicascg\\practicascg\\principal.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{50A50B21-F094-4B14-A194-409387BCA18C}|PracticasCG\\PracticasCG.csproj|solutionrelative:practicascg\\principal.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50A50B21-F094-4B14-A194-409387BCA18C}|PracticasCG\\PracticasCG.csproj|c:\\users\\lucio pipo\\desktop\\repo github\\repositorio-curso-c-nivel-3-web-.net-\\practicascg\\practicascg\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{50A50B21-F094-4B14-A194-409387BCA18C}|PracticasCG\\PracticasCG.csproj|solutionrelative:practicascg\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A50B21-F094-4B14-A194-409387BCA18C}|PracticasCG\\PracticasCG.csproj|c:\\users\\lucio pipo\\desktop\\repo github\\repositorio-curso-c-nivel-3-web-.net-\\practicascg\\practicascg\\content\\iconos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{50A50B21-F094-4B14-A194-409387BCA18C}|PracticasCG\\PracticasCG.csproj|solutionrelative:practicascg\\content\\iconos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A50B21-F094-4B14-A194-409387BCA18C}|PracticasCG\\PracticasCG.csproj|c:\\users\\lucio pipo\\desktop\\repo github\\repositorio-curso-c-nivel-3-web-.net-\\practicascg\\practicascg\\principal.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{50A50B21-F094-4B14-A194-409387BCA18C}|PracticasCG\\PracticasCG.csproj|solutionrelative:practicascg\\principal.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Iconos.css",
+              "DocumentMoniker": "C:\\Users\\Lucio Pipo\\Desktop\\Repo Github\\Repositorio-Curso-C-Nivel-3-Web-.Net-\\PracticasCG\\PracticasCG\\Content\\Iconos.css",
+              "RelativeDocumentMoniker": "PracticasCG\\Content\\Iconos.css",
+              "ToolTip": "C:\\Users\\Lucio Pipo\\Desktop\\Repo Github\\Repositorio-Curso-C-Nivel-3-Web-.Net-\\PracticasCG\\PracticasCG\\Content\\Iconos.css",
+              "RelativeToolTip": "PracticasCG\\Content\\Iconos.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-09T19:16:42.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Home.aspx",
               "DocumentMoniker": "C:\\Users\\Lucio Pipo\\Desktop\\Repo Github\\Repositorio-Curso-C-Nivel-3-Web-.Net-\\PracticasCG\\PracticasCG\\Home.aspx",
               "RelativeDocumentMoniker": "PracticasCG\\Home.aspx",
@@ -30,12 +47,12 @@
               "RelativeToolTip": "PracticasCG\\Home.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-09T17:22:26.098Z",
+              "WhenOpened": "2024-03-09T18:57:37.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "principal.Master",
               "DocumentMoniker": "C:\\Users\\Lucio Pipo\\Desktop\\Repo Github\\Repositorio-Curso-C-Nivel-3-Web-.Net-\\PracticasCG\\PracticasCG\\principal.Master",
               "RelativeDocumentMoniker": "PracticasCG\\principal.Master",
@@ -43,7 +60,7 @@
               "RelativeToolTip": "PracticasCG\\principal.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-09T17:20:45.595Z",
+              "WhenOpened": "2024-03-09T18:54:33.17Z",
               "EditorCaption": ""
             }
           ]
